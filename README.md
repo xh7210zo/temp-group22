@@ -11,4 +11,5 @@ GitHub usernames:
 Qiwei Lian, vr24936@bristol.ac.uk, SH1ROde
 Gaochang He, co24396@bristol.ac.uk. HeGaochang
 Yi-Chun Chi, ws24986@bristol.ac.uk, YCC317
-\nXu Hu, ty24832@bristol.ac.uk, xh7210zo
+
+Xu Hu, ty24832@bristol.ac.uk, xh7210zo
