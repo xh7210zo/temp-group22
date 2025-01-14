@@ -8,4 +8,4 @@ Names:
 GitHub usernames:
 1.Hao Jen Shih
 
-Qiwei Lian, vr24936@bristol.ac.uk, SH1ROd
+Qiwei Lian, vr24936@bristol.ac.uk, SH1ROde
