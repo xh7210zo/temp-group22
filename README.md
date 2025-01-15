@@ -2,7 +2,7 @@
 
 Qiwei Lian, vr24936@bristol.ac.uk, SH1ROd
 
-Gaochang He, co24396@bristol.ac.uk. HeGaochang
+Gaochang He, co24396@bristol.ac.uk, HeGaochang
 
 Yi-Chun Chi, ws24986@bristol.ac.uk, YCC317
 
